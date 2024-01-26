@@ -54,7 +54,7 @@ contract HelperConfig is Script {
                 callBackGasLimit: 2500000,
                 interval: 30,
                 link: 0x779877A7B0D9E8603169DdbD7836e478b4624789,
-                deployerKey: vm.envUint("PRIVATE_KEY")
+                deployerKey: vm.envUint("PRIVATE_KEY_WITH_ENOUGH_TOKEN")
             });
     }
 
