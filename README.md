@@ -64,3 +64,7 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+1. users can enter by paying a ticket
+2. after x amount of time winner will be picked 
+3. chinklink automation and chainlink vrf
+4. 
